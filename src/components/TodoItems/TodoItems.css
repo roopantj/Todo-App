@@ -1,0 +1,24 @@
+.todoContainer {
+  height: 100%;
+  max-height: 25rem;
+  margin: 1rem;
+  overflow-y: scroll;
+  border: 1px solid #0000002e;
+}
+.todoCard {
+  text-align: left;
+  width: 80%;
+  margin: 1rem auto;
+  background-color: #ff00001a;
+  border: 1px solid red;
+  padding: 1rem;
+}
+.actionContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.todoCard.success {
+  border: 1px solid #06f406;
+  background-color: #90ee901c;
+}

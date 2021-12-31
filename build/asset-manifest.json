@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/roopantj/Todo-App/static/css/main.542b5cfb.css",
+    "main.js": "/roopantj/Todo-App/static/js/main.b2ac52d0.js",
+    "index.html": "/roopantj/Todo-App/index.html",
+    "main.542b5cfb.css.map": "/roopantj/Todo-App/static/css/main.542b5cfb.css.map",
+    "main.b2ac52d0.js.map": "/roopantj/Todo-App/static/js/main.b2ac52d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.542b5cfb.css",
+    "static/js/main.b2ac52d0.js"
+  ]
+}
